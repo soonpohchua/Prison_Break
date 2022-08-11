@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts.
 
 ### Objectives
 
-The objectives are to answer the following questions based on data extracted from the weblink:
+The project aims to answer the following questions based on data extracted from the weblink:
 - In which year did the most helicopter prison break attempts occur?
 - In which countries do the most attempted helicopter prison breaks occur?
 - In which countries do helicopter prison breaks have a higher chance of success?
